@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Gunaseelan G</h3>
-<h3>Register Number : 212221230031</h3>
+<h3>Name: KAVYA K</h3>
+<h3>Register Number : 212222230065</h3>
 
 # Aim: 
 
